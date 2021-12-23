@@ -1,0 +1,5 @@
+zuul:
+  routes:
+    google:
+      path: /**
+      url: https://www.google.com/
